@@ -1,1 +1,5 @@
-# day3_css
+![image](https://github.com/user-attachments/assets/eb3052b7-06a1-4dd9-9052-96fd36f9ee40)
+![image](https://github.com/user-attachments/assets/a8b50e16-1df7-4ca1-b721-67c6ce369975)
+![image](https://github.com/user-attachments/assets/52c7bd0e-74dd-4462-875f-5a9e2f3368af)
+![image](https://github.com/user-attachments/assets/0c58d4fe-048e-4640-9e93-4a990e95d603)
+![image](https://github.com/user-attachments/assets/c30dff69-8699-4dd9-a698-a39ec2103aa9)
